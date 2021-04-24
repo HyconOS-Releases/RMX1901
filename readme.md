@@ -1,0 +1,11 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)   ![Maintaner](https://img.shields.io/badge/maintainer-HaSSaN-blue)
+
+*DOWNLOAD COUNT BY VERSION BELOW*
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX1901/v2.0/total.svg)](https://GitHub.com/Hycon-Releases/RMX1901/releases)
+
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX1901/v1.5/total.svg)](https://GitHub.com/Hycon-Releases/RMX1901/releases)
+
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX1901/V1.0/total.svg)](https://GitHub.com/HyconOS-Releases/RMX1901/releases)
